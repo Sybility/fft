@@ -16,3 +16,9 @@ complex_UT: complex.c
 
 clean:
 	rm -f fft complex_UT *.o core.* *.stackdump
+
+install:
+	sudo cp fft /usr/local/bin
+	
+uninstall:
+	sudo rm -f /usr/local/bin/fft
