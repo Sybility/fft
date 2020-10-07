@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: fft
+Upstream-Contact: https://github.com/gregfjohnson/fft
+Source: https://github.com/gregfjohnson/fft.git
+Comment: This package was debianized by U.N. in 2020
+
+Files: *
+Copyright: Gregory F. Johnson
+License: GPL-2
